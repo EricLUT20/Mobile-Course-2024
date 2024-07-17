@@ -58,3 +58,4 @@ Follow these instructions to set up and run the project on your local machine.
     2. Once your emulator is set up, click on the `Run` button (green play button) in Android Studio.
     3. Select your emulator and click `OK` to run the application.
     4. Android Studio should automatically start the application once it is installed. If it doesn't, you can manually start it in the emulator.
+    5. Now you can try out the application.
