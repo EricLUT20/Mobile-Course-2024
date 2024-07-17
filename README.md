@@ -29,7 +29,7 @@ Follow these instructions to set up and run the project on your local machine.
 
 3. **Copy Project Directory to Android Studio Projects**
 
-    Copy the cloned project directory to your Android Studio projects directory. This is usually located at:
+    Copy the cloned project/Mobile-Project directory to your Android Studio projects directory. This is usually located at:
 
     - On Windows: `C:\Users\<Your-Username>\AndroidStudioProjects`
     - On macOS: `/Users/<Your-Username>/AndroidStudioProjects`
